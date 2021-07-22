@@ -26,7 +26,7 @@ abstract: Verlinde's theory of Emergent Gravity (EG) describes gravity as an
   preferred in all tested datasets; however, we also discuss possible
   modifications of EG that greatly relax the tension with the data.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
