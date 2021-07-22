@@ -5,9 +5,9 @@ bio: My research interests include theories and tests of modified gravity using
   cosmological and astrophysical data.
 interests:
   - Gravity
-  - theories of modified gravity
-  - tests of modified gravity
-  - galaxy clusters
+  - Theories of modified gravity
+  - Tests of modified gravity
+  - Galaxy clusters
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,15 +29,12 @@ organizations:
     url: https://www.nottingham.ac.uk
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Cosmology
+      institution: University of Portsmouth
+      year: ""
+    - course: MPhys in Physics
+      institution: University of Edinburgh
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
