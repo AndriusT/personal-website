@@ -12,6 +12,7 @@ all_day: false
 event: FEniCS 2021
 event_url: https://fenicsproject.org/fenics-2021/
 publishDate: 2021-08-01T17:16:20.841Z
+slides: assets/media/fenics_2021.pdf
 draft: false
 featured: false
 image:
