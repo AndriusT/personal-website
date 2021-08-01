@@ -14,6 +14,10 @@ links:
     name: PDF Slides
     icon_pack: ai
     icon: semantic-scholar
+  - url: https://twitter.com/Andrius_T_
+    name: Follow
+    icon_pack: fab
+    icon: twitter
 event: FEniCS 2021
 event_url: https://fenicsproject.org/fenics-2021/
 publishDate: 2021-08-01T17:16:20.841Z
