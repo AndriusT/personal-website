@@ -10,7 +10,7 @@ date: 2021-03-22T18:16:20.801Z
 date_end: 2021-03-26T00:00:00.000Z
 all_day: false
 links:
-  - url: assets/media/fenics_2021.pdf
+  - url: https://github.com/AndriusT/personal-website/blob/master/assets/media/fenics_2021.pdf
     name: PDF Slides
     icon_pack: ai
     icon: semantic-scholar
