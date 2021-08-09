@@ -10,7 +10,7 @@ authors:
   - Robert C. Nichol
   - Ben Mawdsley
 doi: 10.1093/mnras/stab1879
-publication: In MNRAS
+publication: MNRAS
 abstract: Generative adversarial networks (GANs) have been recently applied as a
   novel emulation technique for large scale structure simulations. Recent
   results show that GANs can be used as a fast, efficient and computationally
