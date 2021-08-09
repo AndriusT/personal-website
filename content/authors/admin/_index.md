@@ -45,6 +45,4 @@ I have recently finished my PhD at the University of Portsmouth where I studied 
 
 Before that I have studied for an MPhys degree at the University of Edinburgh. My master's thesis focused on the double-field inflationary model known as hybrid inflation.
 
- 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/AndriusT/personal-website/raw/master/assets/media/resume/academic_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
