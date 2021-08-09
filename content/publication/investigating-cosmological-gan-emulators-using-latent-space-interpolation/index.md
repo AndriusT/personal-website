@@ -34,6 +34,8 @@ abstract: Generative adversarial networks (GANs) have been recently applied as a
   better understanding the latent space interpolation procedure
 draft: false
 featured: true
+projects:
+  - example
 image:
   filename: featured
   focal_point: Smart
