@@ -8,6 +8,7 @@ authors:
   - Kazuya Koyama
   - Robert C. Nichol
 doi: 10.1088/1475-7516/2019/05/053
+publication_short: JCAP
 abstract: Verlinde's theory of Emergent Gravity (EG) describes gravity as an
   emergent phenomenon rather than a fundamental force. Applying this reasoning
   in de Sitter space leads to gravity behaving differently on galaxy and galaxy
