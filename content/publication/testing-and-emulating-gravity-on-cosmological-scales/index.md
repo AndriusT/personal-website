@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Andrius Tamosiunas
-doi: arXiv:2011.08786
+doi: ""
 publication: "PhD Thesis: arXiv"
 abstract: >-
   This thesis introduces a set of methods for testing models of modified gravity
