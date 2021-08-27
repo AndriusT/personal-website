@@ -4,6 +4,8 @@ publication_types:
   - "2"
 authors:
   - Andrius Tamosiunas
+doi: arXiv:2011.08786
+publication: "PhD Thesis: arXiv"
 abstract: >-
   This thesis introduces a set of methods for testing models of modified gravity
   using galaxy clusters. In particular, a technique for constraining models with
