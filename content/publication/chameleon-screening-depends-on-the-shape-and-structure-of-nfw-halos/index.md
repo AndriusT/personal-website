@@ -23,8 +23,8 @@ abstract: Chameleon gravity is an example of a model that gives rise to
   chameleon acceleration due to halo triaxiality. We focus on the parameter
   space regions that are still allowed by the observational constraints. We find
   that given our dataset, the largest allowed value for the chameleon-to-NFW
-  acceleration ratio at the virial radius is ∼$10^{−7}$. This result strongly
-  indicates that the chameleon models that are still allowed by the
+  acceleration ratio at the virial radius is $\sim 10^{−7}$. This result
+  strongly indicates that the chameleon models that are still allowed by the
   observational constraints would not lead to any measurable effects on galaxy
   cluster scales. Nonetheless, we also find that there is a direct relationship
   between the NFW potential and the chameleon-to-NFW acceleration ratio at the
