@@ -23,7 +23,7 @@ social:
     link: https://github.com/AndriusT
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/andrius-tamosiunas-983052152
+    link: https://linkedin.com/in/andrius-tamosiunas-983052152
 organizations:
   - name: University of Nottingham
     url: https://www.nottingham.ac.uk
