@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoc
-    company: University of Nottingham
-    company_url: 'https://www.nottingham.ac.uk/'
+    company: Particle cosmology group, University of Nottingham
+    company_url: 'https://www.nottingham.ac.uk/~ppzphy7/webpages/'
     company_logo: nottingham_logo
     location: Nottingham, UK
     date_start: '2021-09-01'
@@ -33,8 +33,8 @@ experience:
         Responsibilities include:
         
         * Numerical studies of chameleon gravity in galaxy clusters
-        * Numerical studies of chameleon and symmetron gravity in voids
-        * Machine learning applications in cosmology
+        * Numerical studies of chameleon and symmetron gravity in cosmic voids
+        * Machine learning applications in cosmology (deep learning, GAN/VAE)
         
   - title: Professor of Semiconductor Physics
     company: University X
