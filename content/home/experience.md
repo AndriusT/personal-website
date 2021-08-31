@@ -15,7 +15,7 @@ experience:
         
         * Numerical studies of chameleon gravity in galaxy clusters
         * Numerical studies of chameleon gravity in cosmic voids
-        * Chameleon and symmetron gravity in interferometry tests of modified gravity.
+        * Chameleon and symmetron gravity in interferometry tests of modified gravity
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
