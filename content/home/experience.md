@@ -36,9 +36,9 @@ experience:
         * Numerical studies of chameleon and symmetron gravity in cosmic voids
         * Machine learning applications in cosmology (deep learning, GAN/VAE)
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: PhD
+    company: ICG, University of Portsmouth
+    company_url: 'https://www.icg.port.ac.uk/'
     company_logo: icg_logo
     location: California
     date_start: '2016-01-01'
