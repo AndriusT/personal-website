@@ -6,7 +6,7 @@ experience:
   - title: Postdoctoral Research Associate
     company: Particle Cosmology Group, University of Nottingham
     company_url: https://www.nottingham.ac.uk/~ppzphy7/webpages/
-    company_logo: nottingham_logo
+    company_logo: org-x
     location: Nottingham, UK
     date_start: 2020-09-01
     date_end: ""
