@@ -43,7 +43,8 @@ experience:
     location: Portsmouth, UK
     date_start: '2017-10-01'
     date_end: '2020-07-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        PhD thesis topic: testing modified gravity using galaxy clusters. 
 
 design:
   columns: '2'
