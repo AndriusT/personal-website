@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoc
+  - title: Postdoctoral research associate
     company: Particle cosmology group, University of Nottingham
     company_url: 'https://www.nottingham.ac.uk/~ppzphy7/webpages/'
     company_logo: nottingham_logo
