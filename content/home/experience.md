@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Numerical studies of chameleon gravity in galaxy clusters
+        * Numerical studies of chameleon and symmetron gravity in voids
+        * Machine learning applications in cosmology
         
   - title: Professor of Semiconductor Physics
     company: University X
