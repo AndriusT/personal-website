@@ -30,11 +30,11 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Key projects:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Numerical studies of chameleon gravity in galaxy clusters
+        * Numerical studies of chameleon and symmetron gravity in voids
+        * Machine learning applications in cosmology
         
   - title: Professor of Semiconductor Physics
     company: University X
