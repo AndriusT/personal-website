@@ -16,14 +16,14 @@ experience:
         * Numerical studies of chameleon gravity in galaxy clusters
         * Numerical studies of chameleon gravity in cosmic voids
         * Chameleon and symmetron gravity in interferometry tests of modified gravity
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ""
+  - title: PhD in Cosmology
+    company: ICG, University of Portsmouth
+    company_url: "http://www.icg.port.ac.uk/"
     company_logo: icg_logo
-    location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Portsmouth, UK
+    date_start: 2017-10-01
+    date_end: 2020-07-01
+    description: PhD thesis topic: testing models of modified gravity using galaxy clusters.
 widget_id: experience
 headless: true
 weight: 40
