@@ -32,9 +32,9 @@ experience:
     description: |2-
         Key projects:
         
-        * Numerical studies of chameleon gravity in galaxy clusters
-        * Numerical studies of chameleon and symmetron gravity in voids
-        * Machine learning applications in cosmology
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Professor of Semiconductor Physics
     company: University X
