@@ -18,11 +18,11 @@ experience:
         * Chameleon and symmetron gravity in interferometry tests of modified gravity
   - title: PhD in Cosmology
     company: ICG, University of Portsmouth
-    company_url: https://www.icg.port.ac.uk/
+    company_url: 'https://www.icg.port.ac.uk/'
     company_logo: icg_logo
     location: Portsmouth, UK
-    date_start: 2017-10-01
-    date_end: 2020-07-01
+    date_start: '2017-10-01'
+    date_end: '2020-07-01'
     description: PhD thesis topic: testing models of modified gravity using galaxy clusters.
 widget_id: experience
 headless: true
