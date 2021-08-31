@@ -30,7 +30,7 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        **Key projects**:
         
         * Numerical studies of chameleon gravity in galaxy clusters
         * Numerical studies of chameleon and symmetron gravity in cosmic voids
@@ -44,7 +44,7 @@ experience:
     date_start: '2017-10-01'
     date_end: '2020-07-01'
     description: |2-
-        PhD thesis topic: testing modified gravity using galaxy clusters. 
+        **PhD thesis topic**: testing modified gravity using galaxy clusters. 
 
 design:
   columns: '2'
