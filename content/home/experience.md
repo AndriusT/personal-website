@@ -19,7 +19,7 @@ experience:
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
-    company_logo: https://github.com/AndriusT/personal-website/blob/de46b762102773079a26ec4edea6c0158cfc51c0/assets/media/icons/brands/icg_logo.png
+    company_logo: icg_logo
     location: California
     date_start: 2016-01-01
     date_end: 2020-12-31
