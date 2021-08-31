@@ -40,10 +40,10 @@ experience:
     company: ICG, University of Portsmouth
     company_url: 'https://www.icg.port.ac.uk/'
     company_logo: icg_logo
-    location: Portsmouth, UK
+    location: California
     date_start: '2017-10-01'
     date_end: '2020-07-01'
-    description: PhD thesis: testing modified gravity with galaxy clusters.
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
