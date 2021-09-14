@@ -46,6 +46,23 @@ experience:
     description: |2-
         **PhD thesis topic**: testing modified gravity using galaxy clusters. 
 
+  - title: Data Scientist
+    company: EasyJet
+    company_url: 'https://www.easyjet.com/'
+    company_logo: easyjet_logo
+    location: Luton, UK
+    date_start: '2015-09-01'
+    date_end: '2017-07-01'
+    description: |2-
+        **Key projects**:
+        
+        * Code development in SQL and Python
+        * Developing machine learning techniques to model ticket price dynamics 
+        * Developing mathematical models to predict the effects of world events on ticket prices.
+
+
+  
+
 design:
   columns: '2'
 ---
