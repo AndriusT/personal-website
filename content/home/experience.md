@@ -44,7 +44,7 @@ experience:
     date_start: '2017-10-01'
     date_end: '2020-07-01'
     description: |2-
-        **PhD thesis topic**: testing modified gravity using galaxy clusters. \\
+        **PhD thesis topic**: testing modified gravity using galaxy clusters. \
         **Supervisors**: Bob Nichol, David Bacon, Kazuya Koyama. 
 
   - title: Data Scientist
