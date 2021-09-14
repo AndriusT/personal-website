@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.nottingham.ac.uk/~ppzphy7/webpages/'
     company_logo: nottingham_logo
     location: Nottingham, UK
-    date_start: '2021-09-01'
+    date_start: '2020-09-01'
     date_end: ''
     description: |2-
         **Key projects**:
@@ -44,7 +44,8 @@ experience:
     date_start: '2017-10-01'
     date_end: '2020-07-01'
     description: |2-
-        **PhD thesis topic**: testing modified gravity using galaxy clusters. 
+        **PhD thesis topic**: testing modified gravity using galaxy clusters.
+        **Supervisors**: Bob Nichol, David Bacon, Kazuya Koyama. 
 
   - title: Data Scientist
     company: EasyJet
@@ -59,6 +60,16 @@ experience:
         * Code development in SQL and Python
         * Developing machine learning techniques to model ticket price dynamics 
         * Developing mathematical models to predict the effects of world events on ticket prices.
+
+  - title: MPhys
+    company: University of Edinburgh
+    company_url: 'https://ifa.roe.ac.uk/'
+    company_logo: edinburgh_logo
+    location: Edinburgh, UK
+    date_start: '2010-10-01'
+    date_end: '2015-07-01'
+    description: |2-
+        **MPhys thesis**: Phenomenology of Hybrid Inflation **(Supervisor: Andrew Liddle)**. 
 
 
   
