@@ -69,7 +69,7 @@ experience:
     date_start: '2010-10-01'
     date_end: '2015-07-01'
     description: |2-
-        **MPhys thesis**: Phenomenology of Hybrid Inflation. / 
+        **MPhys thesis**: Phenomenology of Hybrid Inflation. \\
         **Supervisor**: Andrew Liddle. 
 
 
