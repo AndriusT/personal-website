@@ -22,4 +22,5 @@ design:
   view: 2
   background:
     image: recent_posts.jpg
+    text_color_light: true
 ---
