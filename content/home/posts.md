@@ -21,6 +21,6 @@ content:
 design:
   view: 2
   background:
-    image: recent_posts.jpg
-    text_color_light: true
+    image: recent_posts2.jpg
+    text_color_light: false
 ---
