@@ -23,5 +23,5 @@ design:
   background:
     image: recent_posts2.jpg
     text_color_light: false
-    image_darken: 0
+    image_darken: 0.2
 ---
