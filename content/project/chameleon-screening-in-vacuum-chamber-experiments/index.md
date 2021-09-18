@@ -2,8 +2,10 @@
 title: Chameleon Screening in Vacuum Chamber Experiments
 date: 2021-09-18T22:25:48.222Z
 draft: false
-featured: false
+featured: true
 tags:
+  - Modified Gravity
+categories:
   - Modified Gravity
 external_link: https://andrius-tamosiunas.netlify.app/project/chameleon-screening-in-vacuum-chamber-experiments/
 image:
