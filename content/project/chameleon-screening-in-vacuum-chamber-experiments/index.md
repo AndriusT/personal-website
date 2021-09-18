@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - Modified Gravity
-external_link: a
+external_link: https://andrius-tamosiunas.netlify.app/project/chameleon-screening-in-vacuum-chamber-experiments/
 image:
   filename: featured
   focal_point: Smart
