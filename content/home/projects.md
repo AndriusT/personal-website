@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Modified Gravity
+    tag: Modified Gravity
   - name: Other
     tag: Demo
 
