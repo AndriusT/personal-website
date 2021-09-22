@@ -15,4 +15,6 @@ image:
 ---
 Modified gravity theories such as the chameleon and the symmetron are described by non-linear equations of motion, which generally cannot be solved analytically for arbitrary density distributions. In this project we tackle this problem by employing a numerical technique known as the finite element method (FEM). This powerful approach allows us to model modified gravity effects in a variety of contexts. For instance, the equations can be solved numerically to model vacuum chamber experiments that look for evidence of a chameleon fifth force. Similarly, complicated modified gravity effects in astrophysical systems, such as cosmic voids and galaxy clusters, can also be modelled. The produced numerical results can then act as a powerful tool for designing future experimental and observational searches for modified gravity.
 
-$$\phi$$
+Chameleon gravity can be described by the following action:
+
+$$S=\int d x^{4} \sqrt{-g}\left(\frac{M*{p l}^{2}}{2} R-\frac{1}{2} \phi^{, \mu} \phi*{, \mu}-V(\phi)\right)-\int d x^{4} \mathcal{L}*{m}\left(\varphi*{m}^{(i)}, \tilde{g}_{\mu \nu}^{(i)}\right)$$
