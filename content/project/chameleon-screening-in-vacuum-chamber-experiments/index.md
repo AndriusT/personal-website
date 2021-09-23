@@ -17,4 +17,4 @@ Modified gravity theories such as the chameleon and the symmetron are described 
 
 Chameleon gravity can be described by the following action:
 
-$$M_{Pl}$$
+$$\frac{M}{2}$$
