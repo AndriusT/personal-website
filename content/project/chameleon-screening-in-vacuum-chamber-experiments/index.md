@@ -17,4 +17,4 @@ Modified gravity theories such as the chameleon and the symmetron are described 
 
 Chameleon gravity can be described by the following action:
 
-$$S = \int \dx^{4}\sqrt{-g}\big(\frac{M_{Pl}^{2}}{2} R$$
+$$S = \int \mathrm{d}x^{4}\sqrt{-g}\bigg(\frac{M_{Pl}^{2}}{2} R$$
