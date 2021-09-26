@@ -34,5 +34,5 @@ $$S = \int \mathrm{d}x^{4}\sqrt{-g}\bigg(\frac{M\_{Pl}^{2}}{2} R - \frac{1}{2} \
 with $\phi$ as the scalar field, $\mathcal{L}_{m}$ as the matter Lagrangian and $V(\phi)$ as the potential. Varying the outlined action w.r.t. the scalar field $\phi$, we obtain the equation of motion:
 
 $$
-\square \phi=V\_{, \phi}-\sum\_{i} \frac{\beta\_{i}}{M\_{p l}} T\_{\mu \nu}^{(i)} \tilde{g}\_{(i)}^{\mu \nu}
+\square \phi=V\_{, \phi}- \frac{\beta}{M\_{Pl}} T\_{\mu \nu} \tilde{g}^{\mu \nu}
 $$
