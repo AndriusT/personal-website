@@ -31,8 +31,8 @@ Chameleon gravity can be described by the following action:
 
 $$S = \int \mathrm{d}x^{4}\sqrt{-g}\bigg(\frac{M\_{Pl}^{2}}{2} R - \frac{1}{2} \phi^{,\mu} \phi\_{,\mu} - V(\phi) - \frac{\mathcal{L}\_{m}\left(\varphi\_{m}^{(i)}, \tilde{g}\_{\mu \nu}^{(i)}\right)}{\sqrt{-g}} \bigg),$$
 
-with $\phi$ as the scalar field,$\mathcal{L}_{m}$ as the matter Lagrangian and $V(\phi)$ as the potential. Varying the outlined action w.r.t. the scalar field $\phi$, we obtain the equation of motion:
+with $\phi$ as the scalar field, $\mathcal{L}_{m}$ as the matter Lagrangian and $V(\phi)$ as the potential. Varying the outlined action w.r.t. the scalar field $\phi$, we obtain the equation of motion:
 
 $$
-\square \phi=V*{, \phi}-\sum*{i} \frac{\beta*{i}}{M*{p l}} T*{\mu \nu}^{(i)} \tilde{g}*{(i)}^{\mu \nu}
+\square \phi=V\_{, \phi}-\sum\_{i} \frac{\beta\_{i}}{M\_{p l}} T\_{\mu \nu}^{(i)} \tilde{g}\_{(i)}^{\mu \nu}
 $$
