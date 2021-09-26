@@ -34,5 +34,10 @@ $$S = \int \mathrm{d}x^{4}\sqrt{-g}\bigg(\frac{M\_{Pl}^{2}}{2} R - \frac{1}{2} \
 with $\phi$ as the scalar field, $\mathcal{L}_{m}$ as the matter Lagrangian and $V(\phi)$ as the potential. Varying the outlined action w.r.t. the scalar field $\phi$, we obtain the equation of motion:
 
 $$
-\square \phi=V\_{, \phi}- \frac{\beta}{M\_{Pl}} T\_{\mu \nu} \tilde{g}^{\mu \nu}
+\square \phi=V\_{, \phi}- \frac{\beta}{M\_{Pl}} T\_{\mu \nu} \tilde{g}^{\mu \nu}.
 $$
+
+Here we used the definition of the energy momentum tensor: 
+
+$$T_{\mu \nu}=\frac{2}{\sqrt{-\tilde{g}}} \frac{\partial \mathcal{L}_{m}}{\partial \tilde{g}^{\mu \nu}}$$.
+
