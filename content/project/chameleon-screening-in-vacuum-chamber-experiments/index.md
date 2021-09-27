@@ -23,9 +23,9 @@ The list above is by no means exhaustive -- there are dozens of possible explana
 
 There exists a large family of modified gravity theories, each with different phenomenology and predictions. However, the majority of models are also well-constrained or straight up ruled out by the currently available observational constraints. A prime example of the importance of observational constraints in the theoretical model building is the GW170817 event. GW170817 refers to the  binary neutron star merger detected by LIGO in August, 2017. For the first time astronomers were able to detect both the gravitational wave signal of the merger along with the electromagnetic counterpart. Such a measurement is of great significance as it allows us to measure the speed of gravitational waves and different theories of gravity predict different speeds of gravitational waves. With the tight constraints on gravitational waves, dozens of modified gravity theories were ruled out overnight. Combing this with the other observational constraint, such as those from the solar system observations leads to a landscape of theories that are tightly constrained. In other words, any new theory has to abide by the stringent gravitational wave speed constraints, while also not deviating from the GR predictions in the solar system. In addition, any phenomenologically interesting theory must also satisfy a plethora of cosmological constraints, ranging from the cosmic microwave background (CMB) measurements to the history of structure formation constraints. This makes building new theories that deviate from GR in any significant way extremelly difficult. 
 
-[**Introduction to MG**]
+An important class of modified gravity models in the context described above, is scalar-tensor gravity that possesses a screening mechanism. Specifically, this refers to a model with an scalar field introduced. The potential is then chosen such that modified gravity effects do no manifest in high density regions such as the solar system. This can be done by a number of different mechanisms, but the one we focus one here is the so called chameleon mechanism. In the chameleon mechanism the potential is chosen such that the effective mass of the field grows in the vicinity of high density regions leading to the fifth force being supressed. 
 
-Modified gravity theories such as the chameleon and the symmetron are described by non-linear equations of motion, which generally cannot be solved analytically for arbitrary density distributions. In this project we tackle this problem by employing a numerical technique known as the finite element method (FEM). This powerful approach allows us to model modified gravity effects in a variety of contexts. For instance, the equations can be solved numerically to model vacuum chamber experiments that look for evidence of a chameleon fifth force. Similarly, complicated modified gravity effects in astrophysical systems, such as cosmic voids and galaxy clusters, can also be modelled. The produced numerical results can then act as a powerful tool for designing future experimental and observational searches for modified gravity.
+Modified gravity theories such as the chameleon are described by non-linear equations of motion, which generally cannot be solved analytically for arbitrary density distributions. In this project we tackle this problem by employing a numerical technique known as the finite element method (FEM). This powerful approach allows us to model modified gravity effects in a variety of contexts. For instance, the equations can be solved numerically to model vacuum chamber experiments that look for evidence of a chameleon fifth force. Similarly, complicated modified gravity effects in astrophysical systems, such as cosmic voids and galaxy clusters, can also be modelled. The produced numerical results can then act as a powerful tool for designing future experimental and observational searches for modified gravity.
 
 Chameleon gravity can be described by the following action:
 
@@ -41,9 +41,22 @@ Here we used the definition of the energy momentum tensor:
 
 $$T_{\mu \nu}=\frac{2}{\sqrt{-\tilde{g}}} \frac{\partial \mathcal{L}_{m}}{\partial \tilde{g}^{\mu \nu}}.$$
 
-[**Potential**]
+A typical potential choice in this model is the following:
 
-Finally if we assume that the field does not vary in time and use the fact that $T_{\mu \nu} \tilde{g}^{\mu \nu} \approx-\rho$, the equation of motion can be simplified to: 
+$$
+V(\phi)=\Lambda^{4}\left(1+\frac{\Lambda^{n}}{\phi^{n}}\right),
+$$
+
+with $\Lambda$ as the energy scale often set to the dark energy scale (2.4 meV) and $n$ as some integer. In addition, if we assume that the field does not vary in time and use the fact that $T_{\mu \nu} \tilde{g}^{\mu \nu} \approx-\rho$, the equation of motion can be simplified to: 
+
+$$
+\nabla^{2} \phi=-\frac{n \Lambda^{n+4}}{\phi^{n+1}}+\frac{\beta \rho}{M\_{Pl}}.
+$$
+
+Our goal is to solve this equation for different density $\rho$ distributions. For most complex density distributions this is not possible to do analytically. 
+
+ 
+
 
 
 
